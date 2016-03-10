@@ -3,8 +3,8 @@
 New Website for Comp1950
 
 ##Group Members
-*Daniel
-*Andrew
-*Kathy
+* Daniel
+* Andrew
+* Kathy
 
 
