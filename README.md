@@ -7,4 +7,6 @@ New Website for Comp1950
 * Andrew
 * Kathy
 
+[Daniel Prototype](http://comp1950proto.tumblr.com/)
 
+Layout Design for Desktop and Mobiles.
